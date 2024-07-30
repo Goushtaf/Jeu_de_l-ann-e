@@ -46,3 +46,4 @@ class game:
             CLOCK.tick(freq)
             py.display.flip()
         py.quit()
+        # aaaaaaaaaaa

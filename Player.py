@@ -29,3 +29,5 @@ class player:
         self.y_velocity -= self.gravity
         if self.y_velocity < -self.jump_height:
             self.y_velocity = self.jump_height
+
+    # aaaaaaaaaaa

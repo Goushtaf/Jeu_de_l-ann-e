@@ -13,4 +13,4 @@ def get_image(sheet, frame, width, height, scale, colour):
 
 frame_0 = get_image(sprite_sheet_image, 0, 24, 24, 3, (0,0,0))
 
-#aaaaaaaaaaa
+#aaaaaaaaaaahbuhbihjb
